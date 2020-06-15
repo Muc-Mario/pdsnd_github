@@ -1,0 +1,2 @@
+#Exclude data files from version control tracking
+*.csv
