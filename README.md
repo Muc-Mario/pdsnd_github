@@ -1,15 +1,20 @@
 ### Date created
-Include the date you created this project and README file.
+Bikeshare Project:  Created on 2020-05-26
+README file:        Created on 2020-06-15
 
 ### Project Title
-Replace the Project Title
+Mario's Bikeshare Project
+
+### Project Owner
+Mario Baric
 
 ### Description
-Describe what your project is about and what it does
+Caclulate statistics and build an interactive environment about U.S. bikeshare data where a user chooses the data and filter for a dataset to analyse.
 
 ### Files used
-Include the files used
+chicago.csv
+new_your_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://www.udacity.com/
