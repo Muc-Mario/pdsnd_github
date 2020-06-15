@@ -5,6 +5,9 @@ README file:        Created on 2020-06-15
 ### Project Title
 Mario's Bikeshare Project
 
+### Project Owner
+Mario Baric
+
 ### Description
 Caclulate statistics and build an interactive environment about U.S. bikeshare data where a user chooses the data and filter for a dataset to analyse.
 
